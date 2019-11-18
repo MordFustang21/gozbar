@@ -1,5 +1,7 @@
 GoZBar
 ---
+Fork of https://github.com/PeterCxy/gozbar due to API breaking changes.
+
 ZBar bindings for golang. Only scanner supported.
 
 Read the ZBar documentations for explanations on constants and arguments.
